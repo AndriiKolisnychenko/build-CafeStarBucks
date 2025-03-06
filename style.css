@@ -21,28 +21,28 @@ Use it to make something cool, have fun, and share what you've learned with othe
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(".././assets/fonts/Montserrat-Regular.ttf") format("opentype");
+  src: url("assets/fonts/Montserrat-Regular.ttf") format("opentype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(".././assets/fonts/Montserrat-Medium.ttf") format("opentype");
+  src: url("assets/fonts/Montserrat-Medium.ttf") format("opentype");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(".././assets/fonts/Montserrat-SemiBold.ttf") format("opentype");
+  src: url("assets/fonts/Montserrat-SemiBold.ttf") format("opentype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(".././assets/fonts/Montserrat-ExtraBold.ttf") format("opentype");
+  src: url("assets/fonts/Montserrat-ExtraBold.ttf") format("opentype");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
